@@ -1,0 +1,31 @@
+html, body { 
+    margin: 0;
+    overflow: hidden;
+  }
+
+  .ab{
+    text-align: center;
+  }
+  nav
+  {
+    container: calc(center);
+    align-items: center;
+    text-align: center;
+   
+  }
+  .logo
+  {
+    container: calc(bottom);
+    background-color: antiquewhite;
+    width:auto;
+    height:50px;
+    margin:0px;
+    align-items:center;
+     border:2px solid black;
+  background-color: mintcream;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto  auto auto auto auto auto auto auto  auto auto auto auto auto  auto auto auto auto auto auto auto;
+  gap:20px;
+
+  }
+  
